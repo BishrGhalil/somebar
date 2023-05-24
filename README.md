@@ -1,6 +1,8 @@
 # somebar - dwm-like bar for dwl
 My patched version of somebar
 
+> check out my version of [dwl](https://github.com/BishrGhalil/dwl)
+
 ## Dependencies
 
 * c++ compiler, meson, and ninja
